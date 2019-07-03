@@ -1,0 +1,4 @@
+rs <- c("rs10114347", "rs2071557", "rs8259")
+ncbi_snp_query(rs)
+
+#it returns nothing, even I've got results from same code
